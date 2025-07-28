@@ -1,7 +1,7 @@
 
 
 <figure> 
-<img align="right" src="https://github.com/leonxnguyen/leonxnguyen/blob/26ff07f2eba04be90426070cb43160b7d6c46e7f/assets/flip.jpg" width=100>
+<img align="right" src="https://github.com/leonxnguyen/leonxnguyen/blob/26ff07f2eba04be90426070cb43160b7d6c46e7f/assets/flip.jpg" width=200>
 </figure>
 
 <img src="https://github.com/leonxnguyen/leonxnguyen/blob/1b507f467a98ff8221d691739abfbd46015d72eb/assets/portal.gif" width=100> </img><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=01B5CC&width=435&lines=Hi%2C+I'm+Leon;Math+%40+the+University+of+Toronto" alt="Typing SVG" /></a>
