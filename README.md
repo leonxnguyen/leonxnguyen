@@ -6,7 +6,7 @@
 
 </figure>
 
-<img src="https://github.com/leonxnguyen/leonxnguyen/blob/1b507f467a98ff8221d691739abfbd46015d72eb/assets/portal.gif" width=100> </img><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=01B5CC&width=435&lines=Hi%2C+I'm+Leon;Math+%40+the+University+of+Toronto" alt="Typing SVG" /></a>
+<img src="https://github.com/leonxnguyen/leonxnguyen/blob/1b507f467a98ff8221d691739abfbd46015d72eb/assets/portal.gif" width=100> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=01B5CC&width=435&lines=Hi%2C+I'm+Leon!;Math+student+%40+University+of+Toronto" alt="Typing SVG" /></a>
 
 </div>
 
