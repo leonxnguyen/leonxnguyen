@@ -12,4 +12,4 @@
 
 <div align="left">
 
-I'm an aspiring mathematics teacher interested in <em> the applications of technology in education</em>. Although I live a life of <a href="https://keepitsimplelovely.com/sustainable-living/minimalism-for-beginners/#:~:text=What%20is%20Digital%20Minimalism%3F"> digital minimalism</a>, I enjoy browsing eBay for <em>esoteric technology</em>, which as a matter of fact, is how I discovered my beloved <i>Fujitsu Arrows F-03L</i> flip phone. And <i>yes</i>, I use a <strong>flip phone</strong> in 2025! 😎
+I'm an aspiring mathematics teacher interested in <em> the applications of technology in education</em>. Although I live a life of <a href="https://calnewport.com/on-digital-minimalism/#:~:text=%C2%A0as%20follows%3A-,Digital%20minimalism,-is%20a%20philosophy"> digital minimalism</a>, I enjoy browsing eBay for <em>esoteric technology</em>, which as a matter of fact, is how I discovered my beloved <i>Fujitsu Arrows F-03L</i> flip phone. And <i>yes</i>, I use a <strong>flip phone</strong> in 2025! 😎
